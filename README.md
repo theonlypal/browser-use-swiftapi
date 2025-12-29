@@ -57,6 +57,6 @@ Files:
 
 PR to browser-use: https://github.com/browser-use/browser-use/pull/3824
 
-Get a key: https://swiftapi.ai
+Get a key: https://getswiftapi.com
 
 License: MIT
